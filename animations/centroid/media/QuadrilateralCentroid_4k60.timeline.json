@@ -1,0 +1,74 @@
+{
+  "scene": "QuadrilateralCentroid",
+  "movie_file": "QuadrilateralCentroid_4k60.mp4",
+  "geometry_sha256": "74f50d4a817a36e3c2d608635cc0beb8850b7f6907f724f931fcb3e00282e897",
+  "animation_source_sha256": "23522492605119866102249b4f6837e9a0ab18315b3a8cfce45a648124ec2f01",
+  "resolution": [
+    3840,
+    2160
+  ],
+  "frame_rate": 60.0,
+  "duration_seconds": 65.7,
+  "sections": [
+    {
+      "title": "给定四边形",
+      "start_seconds": 0.0
+    },
+    {
+      "title": "对角线交于 E",
+      "start_seconds": 3.05
+    },
+    {
+      "title": "作中垂线与中点",
+      "start_seconds": 6.6
+    },
+    {
+      "title": "作辅助圆",
+      "start_seconds": 11.2
+    },
+    {
+      "title": "取得另两个交点",
+      "start_seconds": 15.05
+    },
+    {
+      "title": "两线交于 G",
+      "start_seconds": 18.7
+    },
+    {
+      "title": "面积加权",
+      "start_seconds": 23.55
+    },
+    {
+      "title": "拼合薄板",
+      "start_seconds": 28.55
+    },
+    {
+      "title": "化简面积权重",
+      "start_seconds": 32.7
+    },
+    {
+      "title": "辅助三角形",
+      "start_seconds": 36.05
+    },
+    {
+      "title": "两条中线",
+      "start_seconds": 40.15
+    },
+    {
+      "title": "顶点平均点的关系",
+      "start_seconds": 45.1
+    },
+    {
+      "title": "一条对角线被平分",
+      "start_seconds": 50.6
+    },
+    {
+      "title": "平行四边形",
+      "start_seconds": 56.4
+    },
+    {
+      "title": "质心已作成",
+      "start_seconds": 60.6
+    }
+  ]
+}
